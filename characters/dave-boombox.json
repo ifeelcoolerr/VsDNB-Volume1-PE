@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "boomboxidle"
+		},
+		{
+			"offsets": [-7, 33],
+			"indices": [],
+			"fps": 24,
+			"anim": "sad",
+			"loop": false,
+			"name": "boomboxmiss"
+		},
+		{
+			"offsets": [-2, 30],
+			"indices": [],
+			"fps": 24,
+			"anim": "cheer",
+			"loop": false,
+			"name": "boomboxcheer"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/shared/dave_boombox",
+	"position": [160, 410],
+	"healthicon": "dave-boombox",
+	"flip_x": false,
+	"healthbar_colors": [55, 121, 255],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

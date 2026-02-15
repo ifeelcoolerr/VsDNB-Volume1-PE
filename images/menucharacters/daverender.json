@@ -1,0 +1,9 @@
+{
+	"idle_anim": "davestuff",
+	"image": "daverender",
+	"position": [130, -24],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 1,
+	"confirm_anim": "davestuff"
+}

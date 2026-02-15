@@ -1,0 +1,9 @@
+{
+	"idle_anim": "warmup",
+	"image": "daverender_warmup",
+	"position": [170, -15],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 1,
+	"confirm_anim": "warmup"
+}

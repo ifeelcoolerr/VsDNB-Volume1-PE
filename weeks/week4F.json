@@ -1,0 +1,54 @@
+{
+	"songs": [
+		[
+			"???",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"???",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"???",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"???",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "festival",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"",
+		"festivalrender",
+		""
+	],
+	"storyName": "Bambi's Corn Festival!",
+	"weekName": "Festival Week",
+	"hideStoryMode": false,
+	"weekBefore": "yeah you aren't unlocking this qwertyuiokjhngfvcdsertyuikjmnb vcxsdertyui",
+	"startUnlocked": false
+}

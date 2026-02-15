@@ -1,0 +1,9 @@
+{
+	"idle_anim": "splitathon",
+	"image": "splitathonrender",
+	"position": [370, -21],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 1,
+	"confirm_anim": "splitathon"
+}

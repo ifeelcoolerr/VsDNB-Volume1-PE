@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [1, -4],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "playrobotleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [1, -4],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "playrobotright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-7, -10],
+			"anim": "sad",
+			"fps": 24,
+			"name": "playrobotmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-2, 7],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "playrobotcheer",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/playrobot/playrobotgf",
+	"position": [40, 170],
+	"healthicon": "dave-boombox",
+	"flip_x": false,
+	"healthbar_colors": [55, 121, 255],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

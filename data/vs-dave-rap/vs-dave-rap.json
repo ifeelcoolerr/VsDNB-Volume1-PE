@@ -1,0 +1,249 @@
+{
+	"player1": "bf-cool",
+	"events": [],
+	"gfVersion": "gf-cool",
+	"notes": [
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[6800, 6, 0, "normal"],
+				[6900, 4, 200, "normal"],
+				[7200, 7, 300, "normal"],
+				[7600, 5, 0, "normal"],
+				[7800, 4, 50, "normal"]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[8000, 6, 0, "normal"],
+				[8200, 7, 0, "normal"],
+				[8400, 5, 100, "normal"],
+				[8800, 5, 200, "normal"],
+				[9200, 6, 0, "normal"],
+				[9382.5, 7, 0, "normal"],
+				[9400, 4, 0, "normal"]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[9600, 6, 200, "normal"],
+				[9900, 4, 0, "normal"],
+				[10000, 7, 100, "normal"],
+				[10200, 6, 0, "normal"],
+				[10400, 5, 200, "normal"],
+				[10800, 5, 200, "normal"]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[11200, 1, 600, "normal"],
+				[12400, 4, 0, "normal"],
+				[12600, 5, 100, "normal"]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[12800, 6, 0, "normal"],
+				[13000, 4, 0, "normal"],
+				[13055, 7, 0, "normal"],
+				[13200, 5, 0, "normal"],
+				[13400, 6, 100, "normal"],
+				[13600, 7, 0, "normal"],
+				[14060, 5, 0, "normal"],
+				[14100, 7, 100, "normal"]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[14400, 5, 200, "normal"],
+				[15000, 6, 0, "normal"],
+				[15200, 7, 250, "normal"],
+				[15500, 4, 0, "normal"],
+				[15700, 6, 0, "normal"]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[16000, 5, 0, "normal"],
+				[16070, 6, 0, "normal"],
+				[16200, 4, 0, "normal"],
+				[16365, 5, 0, "normal"],
+				[16400, 7, 300, "normal"],
+				[16800, 4, 50, "normal"]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[17600, 3, 0, "normal"],
+				[17640, 0, 100, "normal"],
+				[18300, 4, 100, "normal"],
+				[18500, 5, 0, "normal"],
+				[18700, 4, 0, "normal"],
+				[18900, 6, 0, "normal"],
+				[19100, 4, 0, "normal"]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[19300, 6, 200, "normal"],
+				[19600, 5, 0, "normal"],
+				[20100, 2, 300, "normal"],
+				[20300, 3, 0, "normal"]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[21100, 4, 0, "normal"],
+				[21245, 5, 0, "normal"],
+				[21300, 6, 150, "normal"],
+				[21500, 7, 50, "normal"],
+				[21700, 5, 0, "normal"],
+				[21900, 6, 0, "normal"],
+				[22100, 7, 150, "normal"]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[22400, 4, 0, "normal"],
+				[22847.5, 2, 0, "normal"],
+				[22900, 0, 300, "normal"],
+				[23300, 3, 300, "normal"]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[24100, 5, 100, "normal"],
+				[24300, 4, 0, "normal"],
+				[24500, 7, 100, "normal"],
+				[24800, 4, 0, "normal"],
+				[24900, 6, 100, "normal"],
+				[25200, 4, 300, "normal"]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[26000, 6, 100, "normal"],
+				[26200, 7, 0, "normal"],
+				[26400, 5, 0, "normal"],
+				[26562.5, 5, 0, "normal"],
+				[26600, 6, 200, "normal"],
+				[26900, 7, 100, "normal"],
+				[27100, 4, 0, "normal"]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[27357.5, 4, 0, "normal"],
+				[27400, 7, 400, "normal"],
+				[28042.5, 2, 0, "normal"],
+				[28100, 3, 200, "normal"]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[28800, 5, 0, "normal"],
+				[29000, 7, 200, "normal"],
+				[29400, 5, 150, "normal"],
+				[29600, 4, 0, "normal"],
+				[30000, 5, 0, "normal"],
+				[30200, 7, 150, "normal"]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[30400, 5, 0, "normal"],
+				[30600, 4, 100, "normal"],
+				[30900, 6, 100, "normal"],
+				[31100, 4, 0, "normal"],
+				[31200, 5, 150, "normal"],
+				[31400, 6, 0, "normal"],
+				[31400, 7, 200, "normal"],
+				[31647.5, 4, 0, "normal"]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": false
+		}
+	],
+	"player2": "dave-cool",
+	"song": "Vs-Dave-Rap",
+	"stage": "rapBattle",
+	"needsVoices": false,
+	"validScore": true,
+	"format": "psych_v1_convert",
+	"bpm": 150,
+	"speed": 3
+}

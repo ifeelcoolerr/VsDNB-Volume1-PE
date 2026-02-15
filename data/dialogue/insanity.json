@@ -1,0 +1,50 @@
+{
+   "version": "1.0.0",
+   "music": "DaveDialogue",
+   "fadeInTime": 1,
+   "fadeOutTime": 1,
+   "dialogue": [
+      {
+         "expression": "thinking",
+         "side": "left",
+         "speaker": "dave",
+         "text": "...",
+         "typeSpeed": 0.06
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Bap bep?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "thought",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Ah! Sorry, was just thinking...",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "annoyed",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Anyway, ready for the next song?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "ready",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Beep Baaaaaap!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "splitathon",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Alright!",
+         "typeSpeed": 0.04
+      }
+   ]
+}

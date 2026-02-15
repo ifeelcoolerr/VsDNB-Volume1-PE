@@ -1,0 +1,24 @@
+{
+	"position": [
+		100,
+		60
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "dave_dialogue",
+	"animations": [
+		{
+			"loop_name": "dave_3d_scared",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dave_3d_scared",
+			"anim": "3D",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

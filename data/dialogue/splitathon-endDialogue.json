@@ -1,0 +1,145 @@
+{
+   "version": "1.0.0",
+   "music": "DaveDialogue",
+   "fadeInTime": 1,
+   "fadeOutTime": 1,
+   "dialogue": [
+      {
+         "expression": "splitathon",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Wow, that was great! Good job, BF!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "ready",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Beep!",
+         "typeSpeed": 0.02
+      },
+      {
+         "side": "left",
+         "speaker": "dave",
+         "text": "Same to you Bambi!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bewilderedb",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Huh, who?",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "splitathon",
+         "side": "left",
+         "speaker": "dave",
+         "text": "I was a little annoyed you butted in, but you did great!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "angryb",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Oh... well NEVER underestimate me!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "confident",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Heh, I think that settles it, though. It's getting real late, so we gotta get ourselves back home.",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "normal",
+         "side": "right",
+         "speaker": "gf",
+         "text": "Oh yeah, I think we should get going too.",
+         "typeSpeed": 0.04
+      },
+      {
+         "side": "right",
+         "speaker": "bf",
+         "text": "Beep.",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "happy",
+         "side": "left",
+         "speaker": "dave",
+         "text": "It was nice seeing you two. Call me if you ever wanna hang out again!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "ready",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Yeah!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "cheer",
+         "side": "right",
+         "speaker": "gf",
+         "text": "See ya, Dave!",
+         "typeSpeed": 0.04
+      },
+      {
+         "side": "right",
+         "speaker": "generic",
+         "text": "[BF and GF head back home.]",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "ahh",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Ah.. That was fun.",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "upsetb",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Your kid is dead, Dave.",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "furious",
+         "side": "left",
+         "speaker": "dave",
+         "text": "He's asleep, don't say that!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "bewilderedb",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Eh. Why did you bring Tristan anyways?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "thought",
+         "side": "left",
+         "speaker": "dave",
+         "text": "I just wanted to get him out of the house, but it looks like he's been out for a little too long.",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "splitathon",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "I think he's dead.",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "post-maze",
+         "side": "left",
+         "speaker": "dave",
+         "text": "He's not dead.",
+         "typeSpeed": 0.03
+      }
+   ]
+}

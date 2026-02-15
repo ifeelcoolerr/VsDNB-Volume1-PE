@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-63, 0],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "playrobotdownmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [13, 7],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rightplayrobotmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [2, 19],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "upplayrobotmiss",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "playrobotleftmiss"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/backseat/playrobot_backseat_miss",
+	"position": [150, 20],
+	"healthicon": "playrobot",
+	"flip_x": true,
+	"healthbar_colors": [255, 195, 0],
+	"camera_position": [-220, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

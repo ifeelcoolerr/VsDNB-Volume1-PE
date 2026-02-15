@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [24, -1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [41, -3],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [-10, 13],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [6, 2],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [37, 2],
+			"loop": false,
+			"fps": 24,
+			"anim": "interrupt2dissapoint",
+			"indices": [],
+			"name": "interrupt2dissapoint"
+		},
+		{
+			"offsets": [-24, -4],
+			"loop": true,
+			"fps": 24,
+			"anim": "dissapointedidle",
+			"indices": [],
+			"name": "dissapointedidle"
+		},
+		{
+			"offsets": [-26, -5],
+			"loop": false,
+			"fps": 24,
+			"anim": "amused2happy",
+			"indices": [],
+			"name": "amuse2happy"
+		},
+		{
+			"offsets": [100, 6],
+			"loop": true,
+			"fps": 24,
+			"anim": "interrupted",
+			"indices": [],
+			"name": "interrupted"
+		},
+		{
+			"loop": true,
+			"offsets": [-24, -4],
+			"anim": "amusedidle",
+			"fps": 24,
+			"name": "amusedidle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-24, -4],
+			"anim": "happyidle",
+			"fps": 24,
+			"name": "happyidle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/splitathon/Splitathon_Dave",
+	"position": [-30, 180],
+	"healthicon": "dave-annoyed",
+	"flip_x": false,
+	"healthbar_colors": [15, 95, 255],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

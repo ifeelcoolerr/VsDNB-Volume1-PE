@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [33, -7],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "splitathon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-96, 3],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "splitathon right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-28, 41],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "splitathon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-39, -25],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "splitathon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-36, -1],
+			"anim": "idle-transition",
+			"fps": 24,
+			"name": "splitathon idle transition",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [48, -5],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "splitathon ALT L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-96, 5],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "splitathon ALT R",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [142, 93],
+			"anim": "singSmash",
+			"fps": 24,
+			"name": "splitathon phone smash",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "splitathon idle0"
+		},
+		{
+			"offsets": [-37, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "confused",
+			"loop": true,
+			"name": "splitathon confused"
+		},
+		{
+			"offsets": [-35, 6],
+			"indices": [],
+			"fps": 24,
+			"anim": "corn",
+			"loop": true,
+			"name": "splitathon corn"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/splitathon/Splitathon_Bambi",
+	"position": [10, 460],
+	"healthicon": "bambi-new",
+	"flip_x": false,
+	"healthbar_colors": [37, 191, 55],
+	"camera_position": [100, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

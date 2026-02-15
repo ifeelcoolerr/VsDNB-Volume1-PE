@@ -1,0 +1,145 @@
+{
+   "version": "1.0.0",
+   "music": "DaveDialogue",
+   "fadeInTime": 1,
+   "fadeOutTime": 1,
+   "dialogue": [
+      {
+         "side": "right",
+         "speaker": "generic",
+         "text": "[We continue with the group sitting outside and socializing.]",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "thought",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Hey, uhh, Boyfriend is it?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Bo?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "erm",
+         "side": "left",
+         "speaker": "dave",
+         "text": "I feel like we never really settled it, the last time we fought...",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Bop?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "happyarms",
+         "side": "left",
+         "speaker": "dave",
+         "text": "...Settled on who is better at singing, that is!",
+         "typeSpeed": 0.03
+      },
+      {
+         "side": "right",
+         "speaker": "bf",
+         "text": "Boh.",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "cheer",
+         "side": "right",
+         "speaker": "gf",
+         "text": "Oh, you two wanna battle right now? I can get some stuff together real quick, then!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "splitathon",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Perfect! Oh, and while we're at it...",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "confident",
+         "side": "left",
+         "speaker": "dave",
+         "text": "I want you to put on the longest instrumental you have!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "happy",
+         "side": "right",
+         "speaker": "gf",
+         "text": "Damn, really?... Well, the best I can do is ten minutes!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "splitathon",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Well, well! How's about a ten minute showdown, BF?",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "ready",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Yeah!",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "annoyed",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Whoever outlasts the other will be proven the better singer.",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "bewilderedb",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Hey... What about me? I did the singy thing.",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "confident",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Oh, No thanks, Bambi. This is between me and him!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "angryb",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "... Fine!",
+         "typeSpeed": 0.1
+      },
+      {
+         "side": "right",
+         "speaker": "generic",
+         "text": "[Bambi grumbles, but sits down and spectates.]",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "splitathon",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Alright, I hope you're ready, because I'm not going down without a fight!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "ready",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Beep bo bop!",
+         "typeSpeed": 0.02
+      }
+   ]
+}

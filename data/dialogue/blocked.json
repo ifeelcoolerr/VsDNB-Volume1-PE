@@ -1,0 +1,85 @@
+{
+   "version": "1.0.0",
+   "music": "DaveDialogue",
+   "fadeInTime": 1,
+   "fadeOutTime": 1,
+   "dialogue": [
+      {
+         "expression": "normal",
+         "side": "right",
+         "speaker": "gf",
+         "text": "Well this is the place Dave invited us to.",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "cheer",
+         "side": "right",
+         "speaker": "gf",
+         "text": "I like the grass!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "ready",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Yeah!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "normal",
+         "side": "right",
+         "speaker": "gf",
+         "text": "I do wonder why he picked this spot though. Did he want us to meet someone?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "annoyed",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Who goes there??",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Beep?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "upset",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Wait a minute... Are you two trying to steal my corn?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Bo. Beep Skidee Bop-",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "angry",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "I GONNA BLOCK YOU OUT OF MY FARM! You're never coming back ever again you dirty ole' rodeo trash.",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "upset",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Bop?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "what",
+         "side": "right",
+         "speaker": "gf",
+         "text": "You should've let me explain, Boyfriend.",
+         "typeSpeed": 0.03
+      }
+   ]
+}

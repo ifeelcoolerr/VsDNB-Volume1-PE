@@ -1,0 +1,63 @@
+{
+	"songs": [
+		[
+			"Overdrive",
+			"dave-awesome",
+			[
+				1,
+				98,
+				245
+			]
+		],
+		[
+			"Kabunga",
+			"exbungo",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Roofs",
+			"baldi",
+			[
+				14,
+				174,
+				44
+			]
+		],
+		[
+			"VS Dave Rap",
+			"dave-cool",
+			[
+				0,
+				19,
+				127
+			]
+		],
+		[
+			"VS Dave Rap Two",
+			"dave-cool",
+			[
+				0,
+				19,
+				127
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

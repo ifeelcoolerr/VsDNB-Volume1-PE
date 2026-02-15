@@ -1,0 +1,203 @@
+{
+   "version": "1.0.0",
+   "music": "DaveDialogue",
+   "fadeInTime": 1,
+   "fadeOutTime": 1,
+   "dialogue": [
+      {
+         "expression": "sad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Fine... You win..",
+         "typeSpeed": 0.05
+      },
+      {
+         "expression": "ready",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Yeah!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "sad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Just, go away! Please.",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "normal",
+         "side": "right",
+         "speaker": "generic",
+         "text": "Dave finally arrives at Bambi's Farm.",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "surprised",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Oh shit!",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "normal",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Hey, I'm here. Sorry, I was running late.",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "post-maze",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Tristan was a pain to get up. He was like \"But Dad..\" this, \"But Dad..\" that.",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "irritated",
+         "side": "left",
+         "speaker": "tristan",
+         "text": "Don't talk about me like I'm not here!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "cheer",
+         "side": "right",
+         "speaker": "gf",
+         "text": "You have a son? How adorable!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "happyarms",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Oh yeah, and he's a great kid! Isn't that right, bud?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "sad",
+         "side": "left",
+         "speaker": "tristan",
+         "text": "",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "angry",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Dave, these trespassers ruined my day! Can you please get them out of here!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "post-maze",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Are you serious, Bambi? They're my friends! Picnic, remember?",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "confused",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Wait...",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "think",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "...",
+         "typeSpeed": 0.08
+      },
+      {
+         "expression": "thought",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Yeah, sorry about Bambi's behavior, guys. He tends to get a bit defensive when you step onto his property...",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "what",
+         "side": "right",
+         "speaker": "gf",
+         "text": "Hah, we're well aware.",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Skedoo bop.",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "surprised",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Oh. Ohhh, ohhhhhh!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "angry",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "SO I GOT ANGRY AND BROKE MY PHONE OVER NOTHING?",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "sad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "I'M SO STUPID! ...And just a little sorry.",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "confident",
+         "side": "left",
+         "speaker": "dave",
+         "text": "It's okay Bambi, everyone makes mistakes from time to time!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "post-maze",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Even very stupid ones that could've easily been averted.",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "annoyed",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "I see straight through your sarcasm!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "cheer",
+         "side": "right",
+         "speaker": "gf",
+         "text": "Alright everyone, how about we get this picnic started!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "normal",
+         "side": "left",
+         "speaker": "tristan",
+         "text": "Oh heck yeah, food!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "ready",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Beep!",
+         "typeSpeed": 0.04
+      },
+      {
+         "side": "right",
+         "speaker": "generic",
+         "text": "[Everyone eventually settles down and has a nice picnic together.]",
+         "typeSpeed": 0.02
+      }
+   ]
+}

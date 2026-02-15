@@ -1,0 +1,78 @@
+{
+   "version": "1.0.0",
+   "music": "dooDooFeces",
+   "fadeInTime": 1,
+   "fadeOutTime": 1,
+   "dialogue": [
+      {
+         "expression": "bevel",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Stop you try to are trolling me",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "bf",
+         "text": "skdoo bep",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevel",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Oh my god You try to filming",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevel",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "You change the keyboard",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "bf",
+         "text": "boop bop skippidy",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevel",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "You liar",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "bf",
+         "text": "bep",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevel",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "That it",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevel",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "You trolling me",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevel",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "You win this game = I smash my phone",
+         "typeSpeed": 0.04
+      }
+   ]
+}

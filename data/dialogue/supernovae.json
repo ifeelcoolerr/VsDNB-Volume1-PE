@@ -1,0 +1,71 @@
+{
+   "version": "1.0.0",
+   "music": "dooDooFeces",
+   "fadeInTime": 1,
+   "fadeOutTime": 1,
+   "dialogue": [
+      {
+         "expression": "bevel",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Why you calling me ?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Beep",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevel",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "I don't understand",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevel",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Speak brazil",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Boop beep skdoop",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevel",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "I gonna block you because you calling me",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevel",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Let's have rap battle",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevel",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "You lose = block",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevel",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "TB she lose you gonna lose",
+         "typeSpeed": 0.04
+      }
+   ]
+}

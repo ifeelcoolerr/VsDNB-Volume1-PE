@@ -1,0 +1,9 @@
+{
+	"idle_anim": "festival",
+	"image": "festivalrender",
+	"position": [460, 23],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 1,
+	"confirm_anim": "festival"
+}

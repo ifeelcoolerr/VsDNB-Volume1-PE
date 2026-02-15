@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"offsets": [-2, -3],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lefttristan"
+		},
+		{
+			"offsets": [3, 4],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "righttristan"
+		},
+		{
+			"offsets": [11, 3],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "downtristan"
+		},
+		{
+			"offsets": [-1, 9],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "uptristan"
+		},
+		{
+			"offsets": [-1, -3],
+			"loop": false,
+			"fps": 24,
+			"anim": "hay",
+			"indices": [],
+			"name": "heytristan"
+		},
+		{
+			"offsets": [96, 19],
+			"loop": false,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "tristanscared1"
+		},
+		{
+			"offsets": [8, 5],
+			"loop": false,
+			"fps": 24,
+			"anim": "scared2",
+			"indices": [],
+			"name": "tristanscared2"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idletristan"
+		},
+		{
+			"loop": true,
+			"offsets": [26, 13],
+			"anim": "scared-idle",
+			"fps": 24,
+			"name": "tristanscaredidle1",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "heytristan"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/backseat/tristan_backseat",
+	"position": [0, 0],
+	"healthicon": "tristan",
+	"flip_x": true,
+	"healthbar_colors": [255, 19, 15],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

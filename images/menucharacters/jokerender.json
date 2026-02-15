@@ -1,0 +1,9 @@
+{
+	"idle_anim": "joke",
+	"image": "jokerender",
+	"position": [-290, -5],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 1,
+	"confirm_anim": "joke"
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="NOTE_assets.png">
+    <SubTexture name="arrowLEFT0000" x="0"  y="0"  width="17" height="17"/>
+    <SubTexture name="arrowDOWN0000" x="17" y="0"  width="17" height="17"/>
+    <SubTexture name="arrowUP0000" x="34" y="0"  width="17" height="17"/>
+    <SubTexture name="arrowRIGHT0000" x="51" y="0"  width="17" height="17"/>
+
+    <SubTexture name="left confirm0000" x="0"  y="17" width="17" height="17"/>
+    <SubTexture name="down confirm0000" x="17" y="17" width="17" height="17"/>
+    <SubTexture name="up confirm0000" x="34" y="17" width="17" height="17"/>
+    <SubTexture name="right confirm0000" x="51" y="17" width="17" height="17"/>
+
+    <SubTexture name="left press0000" x="0"  y="34" width="17" height="17"/>
+    <SubTexture name="down press0000" x="17" y="34" width="17" height="17"/>
+    <SubTexture name="up press0000" x="34" y="34" width="17" height="17"/>
+    <SubTexture name="right press0000" x="51" y="34" width="17" height="17"/>
+
+    <SubTexture name="note_0_3" x="0"  y="51" width="17" height="17"/>
+    <SubTexture name="note_1_3" x="17" y="51" width="17" height="17"/>
+    <SubTexture name="note_2_3" x="34" y="51" width="17" height="17"/>
+    <SubTexture name="note_3_3" x="51" y="51" width="17" height="17"/>
+
+    <SubTexture name="note_0_4" x="0"  y="68" width="17" height="17"/>
+    <SubTexture name="note_1_4" x="17" y="68" width="17" height="17"/>
+    <SubTexture name="note_2_4" x="34" y="68" width="17" height="17"/>
+    <SubTexture name="note_3_4" x="51" y="68" width="17" height="17"/>
+</TextureAtlas>

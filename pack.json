@@ -1,0 +1,9 @@
+{
+	"name": "VS Dave and Bambi Volume 1 Port",
+	"description": "A port of Vs. Dave and Bambi's volume 1 to Psych Engine.",
+	"restart":true,
+	"runsGlobally": false,
+	"color": [0, 255, 255],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

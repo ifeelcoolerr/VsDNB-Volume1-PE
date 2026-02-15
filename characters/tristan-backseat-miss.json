@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"offsets": [5, -3],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "lefttristan"
+		},
+		{
+			"offsets": [7, 1],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "righttristan"
+		},
+		{
+			"offsets": [10, -4],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "downtristan"
+		},
+		{
+			"offsets": [-1, 12],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "uptristan"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/backseat/tristan_backseat_miss",
+	"position": [0, 0],
+	"healthicon": "tristan",
+	"flip_x": true,
+	"healthbar_colors": [255, 19, 15],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

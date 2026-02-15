@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [5, 6],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "playrobotleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-63, 0],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "playrobotdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-77, -6],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rightplayrobot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-6, 11],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upplayrobot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-17, 9],
+			"anim": "scared",
+			"fps": 24,
+			"name": "playrobotscared1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [4, 19],
+			"anim": "scared2",
+			"fps": 24,
+			"name": "playrobotscared2",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-20, 3],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idleplayrobot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-56, 18],
+			"anim": "hey",
+			"fps": 24,
+			"name": "heyplayrobot",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/backseat/playrobot_backseat",
+	"position": [-460, 0],
+	"healthicon": "playrobot",
+	"flip_x": false,
+	"healthbar_colors": [255, 195, 0],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

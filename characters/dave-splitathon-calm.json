@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [3, -2],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "alt-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-29, 102],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "alt-down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [61, 17],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "alt-up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [87, 6],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "alt-right",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "alt-idle"
+		},
+		{
+			"loop": false,
+			"offsets": [3, -2],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "alt-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-29, 102],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "alt-down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [61, 17],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "alt-up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [87, 6],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "alt-right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/splitathon/Splitathon_Dave_Calm",
+	"position": [-30, 180],
+	"healthicon": "dave-annoyed",
+	"flip_x": false,
+	"healthbar_colors": [15, 95, 255],
+	"camera_position": [0, -50],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

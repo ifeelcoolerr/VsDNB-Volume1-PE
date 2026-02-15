@@ -1,0 +1,31 @@
+{
+	"player1": "bf",
+	"notes": [
+        {
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 178,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+    ],
+	"player2": "dad",
+	"gfVersion": "gf",
+	"events": [],
+	"player3": null,
+	"song": "MathGameState",
+	"stage": "stage",
+	"needsVoices": true,
+	"validScore": true,
+	"bpm": 132,
+	"speed": 3,
+	"format": "psych_v1_convert"
+}

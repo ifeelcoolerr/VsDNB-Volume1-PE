@@ -1,0 +1,220 @@
+{
+   "version": "1.0.0",
+   "music": "DaveDialogue",
+   "fadeInTime": 1,
+   "fadeOutTime": 1,
+   "dialogue": [
+      {
+         "side": "right",
+         "speaker": "generic",
+         "text": "[Bambi gets a phone call from Dave.]",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "annoyed",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "HELLO?!?!",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "phone",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Hey Bambi, it's Dave. Are you ready for that picnic?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "angry",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "WHAT, NO! I'm in the middle of something! There's these two trespassers trying to steal MY corn!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "phone",
+         "side": "left",
+         "speaker": "dave",
+         "text": "By any chance, are these \"Trespassers\" you're harrassing an equally short couple?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bewildered",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Yes... Justifiably!",
+         "typeSpeed": 0.05
+      },
+      {
+         "expression": "phonec",
+         "side": "left",
+         "speaker": "dave",
+         "text": "(I didn't think they would show up early...)",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "phone",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Bambi. They aren't trespassers. I know them.",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "bewildered",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Whaddyumean?",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "phoneb",
+         "side": "left",
+         "speaker": "dave",
+         "text": "I told you this morning, I was planning on inviting a few people to the picnic. They're the \"Guests\" I was talking about!",
+         "typeSpeed": 0.03
+      },
+      {
+         "side": "left",
+         "speaker": "bambi",
+         "text": "That doesn't make sense...",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "phoneb",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Huh? What do you... Did you think I was gonna have a picnic with just you? That's weird.",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "annoyed",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Wait... AHA! I think I know what's going on here!",
+         "typeSpeed": 0.04
+      },
+      {
+         "side": "left",
+         "speaker": "bambi",
+         "text": "These aren't the friends you thought they were, Dave!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "phone",
+         "side": "left",
+         "speaker": "dave",
+         "text": "You've got to be kidding me Bambi-",
+         "typeSpeed": 0.03
+      },
+      {
+         "side": "right",
+         "speaker": "generic",
+         "text": "[Bambi abruptly hangs up on Dave.]",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "annoyed",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Now I know what's really going on here...",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "angry",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "You two are using Dave's \"invite\" as an EXCUSE to steal my corn!",
+         "typeSpeed": 0.02
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "gf",
+         "text": "Are you dense?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bewildered",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "What?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "normal",
+         "side": "right",
+         "speaker": "gf",
+         "text": "You heard me, are you dense?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bewildered",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "How am I dense?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "what",
+         "side": "right",
+         "speaker": "gf",
+         "text": "How could you even assume we're here to steal your corn?",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "gf",
+         "text": "Who the hell does that?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "upset",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "People steal my corn all the time!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "normal",
+         "side": "right",
+         "speaker": "gf",
+         "text": "I mean, okay, so that means you can share an instance of that happening?",
+         "typeSpeed": 0.04
+      },
+      {
+         "side": "left",
+         "speaker": "bambi",
+         "text": "I don't have to give you any of my instances!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "gf",
+         "text": "Do you have any instance or not, little man.",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "annoyed",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Little man? What do you mean little man-",
+         "typeSpeed": 0.05
+      },
+      {
+         "expression": "what",
+         "side": "right",
+         "speaker": "gf",
+         "text": "Okay, I'm done. Make him shut up, babe.",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Beep.",
+         "typeSpeed": 0.04
+      }
+   ]
+}

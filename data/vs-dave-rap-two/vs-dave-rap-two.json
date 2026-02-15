@@ -1,0 +1,297 @@
+{
+	"player1": "bf-cool",
+	"events": [],
+	"gfVersion": "gf-cool",
+	"player2": "dave-cool",
+	"notes": [
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[5526.316, 7, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[5877.19336, 4, 0, ""],
+				[6052.632, 5, 0, ""],
+				[6228.07031, 6, 0, ""],
+				[6228.07031, 4, 0, ""],
+				[6929.82471, 5, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[7192.983, 5, 0, ""],
+				[7456.14063, 6, 0, ""],
+				[7456.14063, 4, 0, ""],
+				[7807.01758, 7, 0, ""],
+				[7982.45654, 5, 0, ""],
+				[8333.334, 4, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[8684.211, 6, 0, ""],
+				[8859.649, 7, 0, ""],
+				[9035.088, 6, 0, ""],
+				[9385.965, 4, 0, ""],
+				[9561.404, 6, 0, ""],
+				[9561.404, 7, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[9912.281, 5, 0, ""],
+				[10087.72, 7, 0, ""],
+				[10438.5967, 5, 0, ""],
+				[10789.4736, 6, 0, ""],
+				[10964.9131, 7, 0, ""],
+				[11140.3516, 6, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[11491.2285, 5, 0, ""],
+				[11491.2285, 4, 0, ""],
+				[12280.7021, 6, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[12631.5791, 7, 0, ""],
+				[12982.457, 5, 0, ""],
+				[13333.334, 6, 0, ""],
+				[13596.4912, 7, 0, ""],
+				[13859.6494, 5, 0, ""],
+				[13859.6494, 6, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[14736.8428, 4, 0, ""],
+				[15000.001, 5, 0, ""],
+				[15175.4395, 6, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[15701.7549, 7, 0, ""],
+				[16052.6318, 5, 0, ""],
+				[16403.51, 6, 0, ""],
+				[16578.9473, 4, 0, ""],
+				[16754.3867, 6, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[17105.2637, 5, 0, ""],
+				[17280.7031, 6, 0, ""],
+				[17456.14, 5, 0, ""],
+				[17807.0176, 4, 0, ""],
+				[18157.8945, 6, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[18508.7734, 7, 0, ""],
+				[18684.21, 5, 0, ""],
+				[18859.65, 6, 0, ""],
+				[19210.5273, 4, 0, ""],
+				[19210.5273, 5, 0, ""],
+				[19561.4043, 6, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[19912.2813, 4, 0, ""],
+				[20087.72, 5, 0, ""],
+				[20263.1582, 6, 0, ""],
+				[20614.0352, 7, 0, ""],
+				[20964.9121, 5, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[21228.07, 6, 0, ""],
+				[21491.2285, 5, 0, ""],
+				[21842.1055, 7, 0, ""],
+				[21842.1055, 5, 0, ""],
+				[22192.9824, 6, 0, ""],
+				[22192.9824, 4, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[22543.8613, 5, 0, ""],
+				[22719.2988, 6, 0, ""],
+				[22894.7383, 4, 0, ""],
+				[23070.1758, 7, 0, ""],
+				[23421.0527, 5, 0, ""],
+				[23596.4922, 6, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[23947.37, 7, 0, ""],
+				[24122.8086, 5, 0, ""],
+				[24473.6855, 6, 0, ""],
+				[24824.5625, 5, 0, ""],
+				[25000, 7, 0, ""],
+				[25175.44, 5, 0, ""],
+				[25175.44, 4, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[25526.3164, 6, 0, ""],
+				[25877.1934, 7, 0, ""],
+				[26228.07, 5, 0, ""],
+				[26403.51, 6, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[26754.3867, 7, 0, ""],
+				[26754.3867, 5, 0, ""],
+				[26929.8262, 6, 0, ""],
+				[26929.8262, 4, 0, ""],
+				[27280.7031, 5, 0, ""],
+				[27280.7031, 7, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[30000, 7, 0, "normal"],
+				[30000, 5, 0, "normal"],
+				[30000, 4, 0, "normal"],
+				[30000, 2, 0, "normal"],
+				[30000.002, 6, 0, ""]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"typeOfSection": 0,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 171
+		},
+		{
+			"gfSection": false,
+			"altAnim": false,
+			"sectionNotes": [],
+			"bpm": 171,
+			"sectionBeats": 4,
+			"changeBPM": false,
+			"mustHitSection": true
+		},
+		{
+			"gfSection": false,
+			"altAnim": false,
+			"sectionNotes": [],
+			"bpm": 171,
+			"sectionBeats": 4,
+			"changeBPM": false,
+			"mustHitSection": true
+		},
+		{
+			"gfSection": false,
+			"altAnim": false,
+			"sectionNotes": [],
+			"bpm": 171,
+			"sectionBeats": 4,
+			"changeBPM": false,
+			"mustHitSection": true
+		},
+		{
+			"gfSection": false,
+			"altAnim": false,
+			"sectionNotes": [],
+			"bpm": 171,
+			"sectionBeats": 4,
+			"changeBPM": false,
+			"mustHitSection": true
+		},
+		{
+			"gfSection": false,
+			"altAnim": false,
+			"sectionNotes": [],
+			"bpm": 171,
+			"sectionBeats": 4,
+			"changeBPM": false,
+			"mustHitSection": true
+		},
+		{
+			"gfSection": false,
+			"altAnim": false,
+			"sectionNotes": [],
+			"bpm": 171,
+			"sectionBeats": 4,
+			"changeBPM": false,
+			"mustHitSection": true
+		}
+	],
+	"song": "Vs-Dave-Rap-Two",
+	"stage": "rapBattle",
+	"validScore": true,
+	"needsVoices": false,
+	"format": "psych_v1_convert",
+	"speed": 3,
+	"bpm": 171
+}

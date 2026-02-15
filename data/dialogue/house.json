@@ -1,0 +1,64 @@
+{
+   "version": "1.0.0",
+   "music": "DaveDialogue",
+   "fadeInTime": 1,
+   "fadeOutTime": 1,
+   "dialogue": [
+      {
+         "expression": "normal",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Bop Boop Bep!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "normal",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Hm? Oh, hey! I know you! Aren't you the guy that defeated Dearest on TV a few months back?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "ready",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Yeah!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "normal",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Bapity boop bep!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "normal",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Oh, and you're challenging me to a singing battle?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "confident",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Well... I warn you, I've won quite a few back in the day!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "normal",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Beeeep!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "happyarms",
+         "side": "left",
+         "speaker": "dave",
+         "text": "Let's start with a simple one!",
+         "typeSpeed": 0.04
+      }
+   ]
+}

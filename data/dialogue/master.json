@@ -1,0 +1,120 @@
+{
+   "version": "1.0.0",
+   "music": "scaryAmbience",
+   "fadeInTime": 1,
+   "fadeOutTime": 1,
+   "dialogue": [
+      {
+         "expression": "bevelmad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "DUDE WHY YOU DO THAT",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevelmad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "I GONNA BLock you...",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevelmad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": ".....",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevelmad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Why are you doing this to me.",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevelmad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Dude.",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevelmad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Stop.",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevelmad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "I don't understand.",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevelmad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "You are causing me severe psychological damage",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevelmad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "This was supposed to be impossible!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevelmad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "And you just...",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevelmad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Played through those songs like it was nothing!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Beep",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevelmad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "This isn't funny anymore.",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevelmad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "My head is literally going to explode.",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "confused",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Boop beep skdoop",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "bevelmad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Just one more song... I could do one more song...",
+         "typeSpeed": 0.04
+      }
+   ]
+}

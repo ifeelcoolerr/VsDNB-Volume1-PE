@@ -1,0 +1,63 @@
+{
+	"songs": [
+		[
+			"Backseat Character Select",
+			"playrobot-tristan",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Bonus Song",
+			"dave",
+			[
+				73,
+				101,
+				255
+			]
+		],
+		[
+			"Mealie",
+			"bambi-loser",
+			[
+				0,
+				181,
+				21
+			]
+		],
+		[
+			"Adventure",
+			"tristan-opponent",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Bot Trot",
+			"playrobot",
+			[
+				255,
+				195,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

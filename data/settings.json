@@ -1,0 +1,37 @@
+[
+	{
+		"save": "cameraMovement",
+		"name": "Camera Movement On Note",
+        "description": "For those with heart issues.\nToggles sudden camera movements when a character plays a note.",
+		"value": true,
+		"type": "bool"
+	},
+	{
+		"save": "minimalUI",
+		"name": "Minimal UI",
+        "description": "Toggles UI elements like Accuracy, Misses and Timer.",
+		"value": false,
+		"type": "bool"
+	},
+	{
+		"save": "timerType",
+		"name": "Elapsed + Left Timer",
+        "description": "If enabled, the timer will display both the elapsed time and the remaining time.",
+		"value": false,
+		"type": "bool"
+	},
+	{
+		"save": "gimmickWarnings",
+		"name": "Gimmick Warnings",
+        "description": "Toggles Warnings shown on songs with gimmicks.",
+		"value": true,
+		"type": "bool"
+	},
+	{
+		"save": "darkMode",
+		"name": "Dark Mode",
+        "description": "If enabled, the window header will be dark.\n(Credits to T-Bar, only happens in songs!)",
+		"value": true,
+		"type": "bool"
+	}
+]

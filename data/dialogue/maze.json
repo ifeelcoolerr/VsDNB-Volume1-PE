@@ -1,0 +1,85 @@
+{
+   "version": "1.0.0",
+   "music": "DaveDialogue",
+   "fadeInTime": 1,
+   "fadeOutTime": 1,
+   "dialogue": [
+      {
+         "expression": "sad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "My phone...",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "annoyed",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "Look what you two did!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "angry",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "You don't know what you guys just got me into!!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "what",
+         "side": "right",
+         "speaker": "gf",
+         "text": "What?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "angry",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "You both are gonna die!",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "upset",
+         "side": "right",
+         "speaker": "bf",
+         "text": "Boop!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "angry",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "That's it.. That is it!",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "annoyed",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "One more song... If you win, I-I, uhh..",
+         "typeSpeed": 0.03
+      },
+      {
+         "expression": "sad",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "I think I'm gonna go to bed after this..",
+         "typeSpeed": 0.05
+      },
+      {
+         "expression": "normal",
+         "side": "right",
+         "speaker": "gf",
+         "text": "Aww, you got tired from that temper tantrum, huh? Wanna blankie?",
+         "typeSpeed": 0.04
+      },
+      {
+         "expression": "angry",
+         "side": "left",
+         "speaker": "bambi",
+         "text": "OH MY GOD STOP.",
+         "typeSpeed": 0.02
+      }
+   ]
+}
