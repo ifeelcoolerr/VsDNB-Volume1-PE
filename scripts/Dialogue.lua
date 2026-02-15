@@ -226,7 +226,7 @@ function Speaker(leftBool, charName, charExpression)
     local startX = leftBool and offscreenLeft or offscreenRight
     local yPos = stringStartsWith(charName, 'dave') and 30 or 100
 
-    charExpression = (charExpression == "normal" and "happy") or (charExpression or "happy")
+    charExpression = ((charExpression == "normal" and "happy") or (charExpression or "happy")):gsub("_", "-")
 
     if currentSpeaker and currentSpeaker ~= charName and speakerCache[currentSpeaker] then
         callMethodFromClass('flixel.tweens.FlxTween', 'cancelTweensOf', {instanceArg(currentSpeaker)})
@@ -237,12 +237,12 @@ function Speaker(leftBool, charName, charExpression)
     end
 
     if not speakerCache[charName] then
-        makeLuaSprite(charName, 'ui/dialogue/portraits/'..charName..'/'..charName..'_'..charExpression, startX, yPos)
+        makeLuaSprite(charName, 'ui/dialogue/portraits/'..charName..'/'..charName..'_'..charExpression:gsub("_","-"), startX, yPos)
         setObjectCamera(charName, 'other')
         addLuaSprite(charName, true)
         speakerCache[charName] = true
     else
-        loadGraphic(charName, 'ui/dialogue/portraits/'..charName..'/'..charName..'_'..charExpression)
+        loadGraphic(charName, 'ui/dialogue/portraits/'..charName..'/'..charName..'_'..charExpression:gsub("_","-"))
     end
 
     callMethodFromClass('flixel.tweens.FlxTween', 'cancelTweensOf', {instanceArg(charName)})
