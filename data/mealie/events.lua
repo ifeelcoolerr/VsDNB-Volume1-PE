@@ -243,7 +243,7 @@ function onStepHit()
         if callMethod('boyfriend.hasAnimation', {'hey'}) then
             triggerEvent('Play Animation', 'hey', 'boyfriend')
         end
-        if callMethod('dad.hasAnimation', {'hey'})
+        if callMethod('dad.hasAnimation', {'hey'}) then
             triggerEvent('Play Animation', 'hey', 'dad')
         end
 

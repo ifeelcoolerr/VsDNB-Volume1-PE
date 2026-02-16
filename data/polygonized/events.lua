@@ -136,8 +136,6 @@ function onStepHit()
     elseif curStep == 1920 then
         setProperty('defaultCamZoom', 1.1)
     elseif curStep == 1024 or curStep == 1312 then
-        crazyZooming = true
-        shakeCam = true
         setProperty('defaultCamZoom', 1.1)
         enablePulse(true)
         fadePulse(true)
@@ -146,10 +144,11 @@ function onStepHit()
             triggerEvent('Change Character', 'BF', 'bf-3d-polygonized')
             triggerEvent('Change Character', 'GF', 'gf-3d')
         end
+        crazyZooming = true
+        shakeCam = true
     elseif curStep == 1152 or curStep == 1408 then
         shakeCam = false
         setProperty('defaultCamZoom', 0.9)
-        crazyZooming = false
         enablePulse(false)
         fadePulse(false)
         if playerIsBF == true then
@@ -157,6 +156,7 @@ function onStepHit()
             triggerEvent('Change Character', 'BF', 'bf')
             triggerEvent('Change Character', 'GF', 'gf')
         end
+        crazyZooming = false
     end
 end
 
