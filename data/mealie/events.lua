@@ -240,8 +240,10 @@ function onStepHit()
     elseif curStep == 608 then
         crazyZooming = false
     elseif curStep == 635 then
-        if callMethod('boyfriend.hasAnimation', {'hey'}) and callMethod('dad.hasAnimation', {'hey'}) then
+        if callMethod('boyfriend.hasAnimation', {'hey'}) then
             triggerEvent('Play Animation', 'hey', 'boyfriend')
+        end
+        if callMethod('dad.hasAnimation', {'hey'})
             triggerEvent('Play Animation', 'hey', 'dad')
         end
 
@@ -344,8 +346,12 @@ function onStepHit()
     elseif curStep == 1692 then
         runTimer('camOff', 0)
         focusOnDad = true
-        playAnim('dad', 'hey', true)
-        playAnim('dave', 'hey', true)
+        if callMethod('dad.hasAnimation', {'hey'}) then
+            triggerEvent('Play Animation', 'hey', 'dad')
+        end
+        if callMethod('dave.hasAnimation', {'hey'}) then
+            playAnim('dave', 'hey', true)
+        end
         cameraSetTarget('dad')
         callMethod('camGame.snapToTarget', {})
     elseif curStep == 1696 then

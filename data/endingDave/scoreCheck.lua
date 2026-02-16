@@ -6,7 +6,7 @@ local score = 0
 
 local endings = {
     {
-        min = 87500,
+        min = 250000,
         music = 'goodEnding',
         sprite = 'goodEnding',
         image = 'endings/dave/good_dave',
@@ -15,7 +15,7 @@ local endings = {
         desc = 'You helped Dave escape the third dimension!\nIn turn, Dave offers you and your girlfriend an invitation...'
     },
     {
-        min = 50000,
+        min = 135000,
         music = 'badEnding',
         sprite = 'badEnding',
         image = 'endings/dave/bad_dave',
@@ -24,7 +24,7 @@ local endings = {
         desc = 'You helped Dave escape the third dimension\nand received an invitation from Dave!\nHowever, your fly was down...'
     },
     {
-        min = 0,
+        min = 50000,
         music = 'badEnding',
         sprite = 'worstEnding',
         image = 'endings/dave/worst_dave',
